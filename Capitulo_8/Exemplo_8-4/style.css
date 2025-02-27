@@ -1,0 +1,28 @@
+.oculta {
+  display: none;
+}
+
+.exibe {
+  display: inline-flex;
+}
+
+select {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+  background-color: silver;
+}
+
+.opt {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  width: 200px;
+  text-align: center;
+  align-items: center;
+  background-color: silver;
+}
